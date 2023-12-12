@@ -77,7 +77,7 @@
         >
           <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
           <h4 class="resume-item-details" itemprop="description">
-            {{ job.position }} {{ job.duration }}
+            {{ job.position }} &bull; {{ job.duration }}
           </h4>
           <p class="resume-item-copy">{{ job.summary }}</p>
         </div>
@@ -142,7 +142,7 @@
             >{% else %}{{ project.project }}{% endif %}
           </h3>
           <h4 class="resume-item-details" itemprop="description">
-            {{ project.role }} &bull; {{ project.duration }}
+            {{ project.role }} {{ project.duration }}
           </h4>
           <p class="resume-item-copy">{{ project.description }}</p>
         </div>
