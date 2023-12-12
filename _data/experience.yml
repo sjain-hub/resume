@@ -9,14 +9,15 @@
 - company: Airtel X-Labs - Remote
   position: Senior Software Engineer - FE
   duration: May 2022 &mdash; Oct 2023
-  summary: <ul class="resume-item-list">
-  <li>Worked on a project which is being used by the Customer care advisors of Airtel across India, with half a million userbase.</li>
-  <li>I worked on 5 features in the web app - creating PageSpace, Widget Library, Customer current plans, Issue new plan, & Billing.</li>
-  <li>Automated the QA by the help of scripts.</li>
-  </ul>
+  summary: <ul class="resume-item-list"><li>Worked on a project which is being used by the Customer care advisors of Airtel across India, with half a million userbase.</li><li>I worked on 5 features in the web app - creating PageSpace, Widget Library, Customer current plans, Issue new plan, & Billing.</li><li>Automated the QA by the help of scripts.</li></ul>
 
 # Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration: Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: Sopra Steria - India
+  position: Senior Software Engineer
+  duration: Aug 2018  &mdash; May 2022
+  summary: Worked on various projects as a full-stack developer, mentioned a few of them - <ul class="resume-item-list"><li>Aries - Developed to reduce Internet Frauds caused due to our leaked Private Information, using Blockchain.</li><li>Smart City - Aimed at developing a system where people can buy or sell electricity produced by them, at their own prices.</li><li>I worked on the Web application part for both the Projects.</li></ul>
+
+- company: Sopra Steria - India
+  position: Senior Software Engineer
+  duration: Aug 2018  &mdash; May 2022
+  summary: <ul class="resume-item-list"><li>Worked on the Analytics Dashboard Monitoring System which measures the various aspects of the Frontend application and plot a graph.</li><li>I developed the Web app with the NodeJs Backend.</li><li>It reduced the effort of debugging the large web applications from hours to minutes.</li></ul>
