@@ -1,20 +1,20 @@
 # Recognitions
-- award: Ace Award
-  organization: Airtel X-Labs
+# - award: Ace Award
+  organization: Ace Award
   # year: 2010, 2014
   summary: Achieved this award in Airtel for working hard despite having health issues at that time.
 
-- award: Enthusiast Award
-  organization: Airtel X-Labs
+# - award: Enthusiast Award
+  organization: Enthusiast Award
   # year: 2004
   summary: Initiated a Blockchain POC with some seniors and completed it within 4 months.
 
-- award: Innovation Award
-  organization: Sopra Steria
+# - award: Innovation Award
+  organization: Innovation Award
   # year: 2004
   summary: My First project won The Innovation Award in the year 2020, in Sopra Steria.
 
-- award: Initiator Award
-  organization: Sopra Steria
+# - award: Initiator Award
+  organization: Initiator Award
   # year: 2004
   summary: Developed an Automation tool that reduced the time of deploying Blockchain from 2 hours to 5 mins, which was then used by several projects in my Organization
