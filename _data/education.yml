@@ -4,8 +4,12 @@
   year: 2015 &mdash; 2018
   summary: Information Technology
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: High School
+  uni: Mothers Global School - India
+  year: 2013 &mdash; 2014
+  # award: Most likely to succeed
+  # summary: You can choose to have either a single or multiple awards
+
+- degree: Matriculation
+  uni: Mothers Global School - India
+  year: 2011 &mdash; 2012
